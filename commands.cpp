@@ -29,7 +29,7 @@ void Commands::howToPlay()
     qInfo() << "Objective: Track and sink all of the enemy ships before the enemy sinks yours";
     qInfo() << "There are three types of ships: Destroyer (2 grid ship), Cruiser (3 grid ship), and Battleship (4 grid ship).";
     qInfo() << "You and the enemy will take turns entering shots using the grid system. (Ex. A5, G7, F2)";
-    qInfo() << "Entern PLAY when you are ready to start the game";
+    qInfo() << "Enter PLAY when you are ready to start the game";
 }
 
 // Starts the game by randomly creating the map and displaying it
