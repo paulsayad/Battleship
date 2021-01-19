@@ -25,3 +25,5 @@ Recreated the famous Battleship Game in C++ using Qt. Here is a link to a youtub
 * Overtime the map will be filled with X's and O's to dictate where you and the enemy have shot
 
 <img src='http://g.recordit.co/uutCE7DzeQ.gif' title='Mid-Game' width='' alt='Video Walkthrough'/>
+
+GIFs created with [RecordIt](https://recordit.co/).
