@@ -1,6 +1,9 @@
 # Battleship
 
-Recreated the famous Battleship Game in C++ using Qt. Here is a link to a youtube video of 2 games being played (https://www.youtube.com/watch?v=pY-5Qq6FjHw).
+Program that enables a user to play Battleship in their terminal. It will play against
+you, attempt to find your ship, and intelligently determine where other parts of your ship are.
+
+Here is a link to a youtube video of 2 games being played (https://www.youtube.com/watch?v=pY-5Qq6FjHw).
 
 ## Objective
 
