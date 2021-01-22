@@ -1,4 +1,4 @@
-# Battleship-Game-Engine
+# Battleship
 
 Recreated the famous Battleship Game in C++ using Qt. Here is a link to a youtube video of 2 games being played (https://www.youtube.com/watch?v=pY-5Qq6FjHw).
 
